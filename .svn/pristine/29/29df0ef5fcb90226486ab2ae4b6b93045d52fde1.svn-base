@@ -1,0 +1,10 @@
+﻿<Window x:Class="SimpleTempLoadOverlay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleTempLoadOverlay"
+        mc:Ignorable="d"
+        Title="SimpleTempLoadOverlay" AllowsTransparency="True" Background="#FF837E7E" WindowStyle="None" Opacity="0.8" IsEnabled="True" Left="0" Top="0" Width="85" Height="50" Loaded="Window_Loaded" IsHitTestVisible="False" Topmost="True" ShowInTaskbar="False" >
+    <Grid/>
+</Window>
